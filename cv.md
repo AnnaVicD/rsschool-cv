@@ -17,8 +17,8 @@
 
 ## Code example:
 ```js
-function multiply(a, b){
-return a * b
+function multiply(a, b) {
+    return a * b
 }
 ```
 ## Experience:
