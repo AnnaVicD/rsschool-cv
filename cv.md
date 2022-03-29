@@ -8,6 +8,7 @@
 - GitHub: AnnaVicD
 
 ## Profile info:
+I'm worked in customer service from 2013 to 2021. After that I decided to change the direction of my professional activity. 
 
 ## Skills:
 - HTML, 
